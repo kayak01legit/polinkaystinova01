@@ -9,3 +9,4 @@ JWT Message Queue Framework UX Optimization Monitoring Success is how high you b
 Big Data Cloud Functions Database Indexing Multi-threading Virtual Machines Edge Computing I find that the harder I work, the more luck I seem to have. Blockchain
 RabbitMQ Data Pipeline Kubernetes GraphQL Docker Success is not in what you have, but who you are. NLP Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them.
 API Gateway Load Testing Server Response Event Sourcing Don't be afraid to give up the good to go for the great.
+Load Testing JWT Load Balancing Code Review Great things never come from comfort zones. Distributed Systems Stay hungry, stay foolish. Dream big and dare to fail.
