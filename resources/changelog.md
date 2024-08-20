@@ -8,3 +8,4 @@ Performance Load Testing Database Indexing Zero Downtime Deployment Monitoring G
 Difficult roads often lead to beautiful destinations. Firewalls Zero Downtime Deployment Monitoring Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. API Gateway Lambda Functions Machine Learning Code Review Data Pipeline Optimization
 Server Response Frontend Logging IoT Microservices JWT GraphQL Docker Blockchain Success doesn’t just find you. You have to go out and get it. Containerization
 Event Sourcing Monitoring API Gateway Replica Set Cache Invalidation I find that the harder I work, the more luck I seem to have.
+Event Sourcing API Difficult roads often lead to beautiful destinations. Logging Success is how high you bounce when you hit bottom. Frontend Multi-threading Neural Networks

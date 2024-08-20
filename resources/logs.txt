@@ -12,3 +12,4 @@ Latency Optimization Event-driven Architecture Monitoring Sharding Cloud Functio
 Parallel Processing Kafka Happiness is not something ready made. It comes from your own actions. IoT Containerization Data Pipeline
 Multi-threading IoT React Lambda Functions Frontend
 Microservices API Gateway Python Happiness is not something ready made. It comes from your own actions. Kafka
+Success doesn’t just find you. You have to go out and get it. Predictive Analytics Deployment Kubernetes Stay hungry, stay foolish. IoT Edge Computing Containerization
