@@ -1,2 +1,3 @@
 Success doesn’t just find you. You have to go out and get it. Optimization Kubernetes Opportunities don't happen. You create them. Agile Containerization Microservices
 Server Response Logging Kafka Frontend Agile JavaScript Big Data GraphQL
+Success is not in what you have, but who you are. Quantum Computing Difficult roads often lead to beautiful destinations. Code Review A/B Testing Happiness is not something ready made. It comes from your own actions. Version Control Agile To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Frontend Virtual Machines Cloud JavaScript Automation
