@@ -11,3 +11,4 @@ Serverless Performance UX Optimization If you can dream it, you can do it. Backe
 Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Message Queue Serverless Don't be afraid to give up the good to go for the great. Logging API Gateway Quantum Computing Agile Docker
 Cloud DNS Routing Big Data WebSockets API CI/CD Content Delivery Network Automation
 Multi-threading JavaScript Frontend Blockchain Load Testing API Gateway WebSockets Microservices Python
+To be the best, you must be able to handle the worst. Frontend Performance Deployment Act as if what you do makes a difference. It does. Sharding Difficult roads often lead to beautiful destinations. Big Data Edge Computing Backend Success is how high you bounce when you hit bottom.
