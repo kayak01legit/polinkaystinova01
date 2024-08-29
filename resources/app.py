@@ -13,3 +13,4 @@ JavaScript Event Sourcing Agile Happiness is not something ready made. It comes 
 Cache Invalidation WebSockets A/B Testing Deployment Content Delivery Network Cloud
 Success usually comes to those who are too busy to be looking for it. WebSockets NLP Automation Event Sourcing React Lambda Functions Replica Set DevOps
 Container Orchestration Data Science Don't be afraid to give up the good to go for the great. Virtual Machines Difficult roads often lead to beautiful destinations. Event-driven Architecture If you can dream it, you can do it.
+Neural Networks Great things never come from comfort zones. Code Review Artificial Intelligence Event Sourcing Edge Computing Dream big and dare to fail. Opportunities don't happen. You create them. Latency Optimization Distributed Systems Algorithm Difficult roads often lead to beautiful destinations.
