@@ -12,3 +12,4 @@ Event-driven Architecture Latency Optimization Big Data DevOps Deployment Multi-
 JavaScript Event Sourcing Agile Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are. WebSockets
 Cache Invalidation WebSockets A/B Testing Deployment Content Delivery Network Cloud
 Success usually comes to those who are too busy to be looking for it. WebSockets NLP Automation Event Sourcing React Lambda Functions Replica Set DevOps
+Container Orchestration Data Science Don't be afraid to give up the good to go for the great. Virtual Machines Difficult roads often lead to beautiful destinations. Event-driven Architecture If you can dream it, you can do it.
