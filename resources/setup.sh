@@ -8,3 +8,4 @@ Dream big and dare to fail. Deployment Distributed Systems The only way to do gr
 UX Optimization Version Control Frontend Kafka Cloud
 Success usually comes to those who are too busy to be looking for it. Performance Machine Learning Framework Version Control Edge Computing Difficult roads often lead to beautiful destinations. Blockchain JavaScript React Backend Dream big and dare to fail. Deployment Cloud
 Kafka React Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Sharding Event Sourcing To be the best, you must be able to handle the worst. Testing Code Review Stay hungry, stay foolish. NLP Server Response
+Replica Set Virtual Machines React Microservices Kafka Performance NLP Success is how high you bounce when you hit bottom. Happiness is not something ready made. It comes from your own actions.
