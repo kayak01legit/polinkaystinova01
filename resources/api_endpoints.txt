@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. Predictive Analytics Load 
 Quantum Computing Multi-threading CI/CD OAuth Event Sourcing Database Firewalls Load Balancing Neural Networks Microservices
 Event Sourcing Great things never come from comfort zones. Algorithm Neural Networks Testing Database Indexing Scalability Predictive Analytics Kafka UX Optimization Artificial Intelligence The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have.
 Serverless Performance UX Optimization If you can dream it, you can do it. Backend Deployment Big Data Predictive Analytics OAuth Pull Request To be the best, you must be able to handle the worst.
+Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Message Queue Serverless Don't be afraid to give up the good to go for the great. Logging API Gateway Quantum Computing Agile Docker
