@@ -11,3 +11,4 @@ Scalability Database RabbitMQ Stay hungry, stay foolish. Kafka Data Pipeline Don
 Latency Optimization Event-driven Architecture Monitoring Sharding Cloud Functions Message Queue Event Sourcing Innovation distinguishes between a leader and a follower.
 Parallel Processing Kafka Happiness is not something ready made. It comes from your own actions. IoT Containerization Data Pipeline
 Multi-threading IoT React Lambda Functions Frontend
+Microservices API Gateway Python Happiness is not something ready made. It comes from your own actions. Kafka
