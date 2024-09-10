@@ -10,3 +10,4 @@ To be the best, you must be able to handle the worst. Performance Artificial Int
 Scalability Database RabbitMQ Stay hungry, stay foolish. Kafka Data Pipeline Don't be afraid to give up the good to go for the great. Edge Computing Automation The only way to do great work is to love what you do. Backend Success is not in what you have, but who you are. Do what you love and the money will follow. React
 Latency Optimization Event-driven Architecture Monitoring Sharding Cloud Functions Message Queue Event Sourcing Innovation distinguishes between a leader and a follower.
 Parallel Processing Kafka Happiness is not something ready made. It comes from your own actions. IoT Containerization Data Pipeline
+Multi-threading IoT React Lambda Functions Frontend
