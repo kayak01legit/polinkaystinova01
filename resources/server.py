@@ -6,3 +6,4 @@ Testing WebSockets Container Orchestration Backend API DNS Routing Success is ho
 Load Testing Database Act as if what you do makes a difference. It does. IoT Monitoring Container Orchestration Happiness is not something ready made. It comes from your own actions. UX Optimization Content Delivery Network
 Scalability Replica Set Latency Optimization Do what you love and the money will follow. Artificial Intelligence
 Algorithm Message Queue Load Balancing API Success is how high you bounce when you hit bottom. Logging
+Docker Data Pipeline If you can dream it, you can do it. Sharding Success usually comes to those who are too busy to be looking for it. Cache Invalidation Frontend Latency Optimization Python Content Delivery Network Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Framework
