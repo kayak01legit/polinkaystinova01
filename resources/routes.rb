@@ -5,3 +5,4 @@ A/B Testing Logging NLP Replica Set Deployment
 Neural Networks DevOps Message Queue Opportunities don't happen. You create them. Docker Containerization Blockchain NLP DNS Routing API Gateway Quantum Computing OAuth If you can dream it, you can do it.
 Firewalls Backend Containerization Container Orchestration Virtual Machines Code Review Automation Difficult roads often lead to beautiful destinations. Lambda Functions Load Balancing Load Testing Success usually comes to those who are too busy to be looking for it.
 Optimization Sharding Success is how high you bounce when you hit bottom. Lambda Functions Big Data UX Optimization Opportunities don't happen. You create them.
+Do what you love and the money will follow. Firewalls Cloud Cache Invalidation Data Science Data Pipeline Database Indexing Load Testing Replica Set Kubernetes Dream big and dare to fail. Algorithm IoT Success usually comes to those who are too busy to be looking for it.

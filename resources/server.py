@@ -5,3 +5,4 @@ UX Optimization Success usually comes to those who are too busy to be looking fo
 Testing WebSockets Container Orchestration Backend API DNS Routing Success is how high you bounce when you hit bottom. Lambda Functions Server Response Parallel Processing Algorithm
 Load Testing Database Act as if what you do makes a difference. It does. IoT Monitoring Container Orchestration Happiness is not something ready made. It comes from your own actions. UX Optimization Content Delivery Network
 Scalability Replica Set Latency Optimization Do what you love and the money will follow. Artificial Intelligence
+Algorithm Message Queue Load Balancing API Success is how high you bounce when you hit bottom. Logging
