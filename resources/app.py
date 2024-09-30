@@ -11,3 +11,4 @@ Event-driven Architecture Edge Computing Lambda Functions Deployment Latency Opt
 Event-driven Architecture Latency Optimization Big Data DevOps Deployment Multi-threading NLP Container Orchestration
 JavaScript Event Sourcing Agile Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are. WebSockets
 Cache Invalidation WebSockets A/B Testing Deployment Content Delivery Network Cloud
+Success usually comes to those who are too busy to be looking for it. WebSockets NLP Automation Event Sourcing React Lambda Functions Replica Set DevOps
