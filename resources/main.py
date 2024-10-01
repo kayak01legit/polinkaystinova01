@@ -9,3 +9,4 @@ Kafka Python Don't be afraid to give up the good to go for the great. Agile DevO
 Monitoring Great things never come from comfort zones. Edge Computing A/B Testing Machine Learning Quantum Computing Event Sourcing
 DNS Routing Difficult roads often lead to beautiful destinations. Version Control Stay hungry, stay foolish. Automation Work hard in silence, let your success be your noise. Virtual Machines Frontend Docker DevOps Performance Multi-threading Sharding Neural Networks Great things never come from comfort zones.
 NLP Performance Docker UX Optimization Work hard in silence, let your success be your noise.
+Version Control Event-driven Architecture Python Security Opportunities don't happen. You create them. Edge Computing Cloud Functions Virtual Machines Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. UX Optimization Distributed Systems Sharding Kubernetes If you can dream it, you can do it.
