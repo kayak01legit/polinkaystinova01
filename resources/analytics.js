@@ -9,3 +9,4 @@ Replica Set Opportunities don't happen. You create them. Work hard in silence, l
 I find that the harder I work, the more luck I seem to have. DevOps Replica Set Database Indexing Blockchain OAuth Kafka The only way to do great work is to love what you do.
 A/B Testing Machine Learning OAuth Agile Virtual Machines API UX Optimization Algorithm IoT Containerization Lambda Functions
 Backend Automation Machine Learning Server Response JavaScript Python Optimization Message Queue Kubernetes Cloud Functions Success doesn’t just find you. You have to go out and get it. React
+Data Pipeline Security IoT Logging Happiness is not something ready made. It comes from your own actions. Database Indexing Success doesn’t just find you. You have to go out and get it. Pull Request Frontend Dream big and dare to fail. Load Testing Work hard in silence, let your success be your noise. Code Review Big Data Agile
