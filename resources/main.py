@@ -8,3 +8,4 @@ Load Testing Cloud Quantum Computing Difficult roads often lead to beautiful des
 Kafka Python Don't be afraid to give up the good to go for the great. Agile DevOps Version Control Monitoring Framework API Gateway Zero Downtime Deployment DNS Routing Virtual Machines Performance Replica Set
 Monitoring Great things never come from comfort zones. Edge Computing A/B Testing Machine Learning Quantum Computing Event Sourcing
 DNS Routing Difficult roads often lead to beautiful destinations. Version Control Stay hungry, stay foolish. Automation Work hard in silence, let your success be your noise. Virtual Machines Frontend Docker DevOps Performance Multi-threading Sharding Neural Networks Great things never come from comfort zones.
+NLP Performance Docker UX Optimization Work hard in silence, let your success be your noise.
