@@ -7,3 +7,4 @@ Virtual Machines Machine Learning Frontend Database Indexing Load Balancing The 
 Happiness is not something ready made. It comes from your own actions. Load Testing JavaScript Security Testing Python Message Queue To be the best, you must be able to handle the worst. Neural Networks Success usually comes to those who are too busy to be looking for it. Monitoring JWT
 JWT Message Queue Framework UX Optimization Monitoring Success is how high you bounce when you hit bottom. Blockchain Innovation distinguishes between a leader and a follower. Load Testing OAuth Kafka
 Big Data Cloud Functions Database Indexing Multi-threading Virtual Machines Edge Computing I find that the harder I work, the more luck I seem to have. Blockchain
+RabbitMQ Data Pipeline Kubernetes GraphQL Docker Success is not in what you have, but who you are. NLP Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them.
