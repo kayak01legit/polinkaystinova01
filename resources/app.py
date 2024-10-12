@@ -9,3 +9,4 @@ Cache Invalidation Artificial Intelligence Automation API Gateway WebSockets Suc
 Python Docker Replica Set Cloud Functions Database Indexing IoT Firewalls Serverless Edge Computing Scalability Data Science
 Event-driven Architecture Edge Computing Lambda Functions Deployment Latency Optimization DevOps Server Response Blockchain Performance UX Optimization
 Event-driven Architecture Latency Optimization Big Data DevOps Deployment Multi-threading NLP Container Orchestration
+JavaScript Event Sourcing Agile Happiness is not something ready made. It comes from your own actions. GraphQL Success is not in what you have, but who you are. WebSockets
