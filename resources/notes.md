@@ -8,3 +8,4 @@ Opportunities don't happen. You create them. Agile Framework Data Science Don't 
 Kafka Containerization Algorithm Framework Server Response WebSockets Database Indexing Firewalls Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Zero Downtime Deployment Version Control Don't be afraid to give up the good to go for the great.
 Load Testing JWT Machine Learning Cloud Functions Parallel Processing Latency Optimization Logging Multi-threading Scalability Success doesn’t just find you. You have to go out and get it. Optimization
 Agile Predictive Analytics Backend Multi-threading Microservices If you can dream it, you can do it. OAuth
+A/B Testing Pull Request Dream big and dare to fail. Frontend Neural Networks Message Queue Event-driven Architecture Lambda Functions
