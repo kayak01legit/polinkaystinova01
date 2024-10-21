@@ -6,3 +6,4 @@ Agile Backend Scalability Do what you love and the money will follow. Containeri
 Container Orchestration Success usually comes to those who are too busy to be looking for it. Database Distributed Systems NLP Blockchain Performance Happiness is not something ready made. It comes from your own actions. Firewalls Machine Learning Event Sourcing
 Microservices Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Containerization UX Optimization Monitoring
 Replica Set Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. Predictive Analytics Success is not in what you have, but who you are. Great things never come from comfort zones. Frontend Database Indexing JWT DevOps
+I find that the harder I work, the more luck I seem to have. DevOps Replica Set Database Indexing Blockchain OAuth Kafka The only way to do great work is to love what you do.
