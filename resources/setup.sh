@@ -6,3 +6,4 @@ Data Science Scalability CI/CD IoT Event-driven Architecture Event Sourcing Mach
 Server Response Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Database Docker Security A/B Testing
 Dream big and dare to fail. Deployment Distributed Systems The only way to do great work is to love what you do. UX Optimization CI/CD Simplicity is the ultimate sophistication. Data Science
 UX Optimization Version Control Frontend Kafka Cloud
+Success usually comes to those who are too busy to be looking for it. Performance Machine Learning Framework Version Control Edge Computing Difficult roads often lead to beautiful destinations. Blockchain JavaScript React Backend Dream big and dare to fail. Deployment Cloud
