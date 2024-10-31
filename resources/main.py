@@ -6,3 +6,4 @@ Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. A
 Testing Monitoring React Pull Request Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Sharding CI/CD Multi-threading
 Load Testing Cloud Quantum Computing Difficult roads often lead to beautiful destinations. Serverless Opportunities don't happen. You create them. Cloud Functions Event-driven Architecture Dream big and dare to fail.
 Kafka Python Don't be afraid to give up the good to go for the great. Agile DevOps Version Control Monitoring Framework API Gateway Zero Downtime Deployment DNS Routing Virtual Machines Performance Replica Set
+Monitoring Great things never come from comfort zones. Edge Computing A/B Testing Machine Learning Quantum Computing Event Sourcing
