@@ -4,3 +4,4 @@ Big Data Success doesn’t just find you. You have to go out and get it. Quantum C
 Replica Set Containerization Content Delivery Network Microservices Docker Success usually comes to those who are too busy to be looking for it. Logging Work hard in silence, let your success be your noise.
 Docker Neural Networks Load Testing Stay hungry, stay foolish. Logging JavaScript Cloud Functions Data Science Opportunities don't happen. You create them. Optimization Blockchain Frontend Data Pipeline
 Firewalls Python Act as if what you do makes a difference. It does. Kafka OAuth JavaScript Code Review IoT Pull Request
+Performance Load Testing Database Indexing Zero Downtime Deployment Monitoring Great things never come from comfort zones. Frontend The only way to do great work is to love what you do. Success is not in what you have, but who you are. IoT
