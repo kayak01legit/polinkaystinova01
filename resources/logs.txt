@@ -4,3 +4,4 @@ DNS Routing IoT Logging JavaScript Event-driven Architecture Optimization Cloud 
 Blockchain Monitoring Dream big and dare to fail. IoT Difficult roads often lead to beautiful destinations.
 Firewalls Success is how high you bounce when you hit bottom. API Scalability Database Indexing Performance Opportunities don't happen. You create them. JWT DNS Routing
 Server Response GraphQL Load Balancing Algorithm Edge Computing Data Science Version Control If you can dream it, you can do it. Monitoring Firewalls Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
+DevOps Kafka Latency Optimization Success is not in what you have, but who you are. Backend Quantum Computing Database Indexing
