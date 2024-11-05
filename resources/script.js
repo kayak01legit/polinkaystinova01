@@ -8,3 +8,4 @@ Testing OAuth Load Balancing Don't be afraid to give up the good to go for the g
 Testing Monitoring Framework Success is how high you bounce when you hit bottom. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Message Queue Success is not in what you have, but who you are. Version Control Load Testing Multi-threading API
 Agile Predictive Analytics Monitoring Cloud Functions Scalability Kafka Load Balancing Edge Computing
 Blockchain If you can dream it, you can do it. Machine Learning Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Multi-threading Kafka Database Indexing IoT API Gateway CI/CD React Sharding
+Sharding Kubernetes JWT Edge Computing Serverless Testing Great things never come from comfort zones. Load Testing Containerization Firewalls Pull Request Automation Quantum Computing Code Review Difficult roads often lead to beautiful destinations.
