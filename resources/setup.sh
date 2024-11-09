@@ -5,3 +5,4 @@ Zero Downtime Deployment Content Delivery Network Deployment Cache Invalidation 
 Data Science Scalability CI/CD IoT Event-driven Architecture Event Sourcing Machine Learning Lambda Functions I find that the harder I work, the more luck I seem to have.
 Server Response Opportunities don't happen. You create them. Happiness is not something ready made. It comes from your own actions. Database Docker Security A/B Testing
 Dream big and dare to fail. Deployment Distributed Systems The only way to do great work is to love what you do. UX Optimization CI/CD Simplicity is the ultimate sophistication. Data Science
+UX Optimization Version Control Frontend Kafka Cloud
