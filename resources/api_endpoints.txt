@@ -3,3 +3,4 @@ Data Pipeline Virtual Machines Scalability Framework Kubernetes Testing If you c
 React Lambda Functions Deployment Frontend Neural Networks The only way to do great work is to love what you do. Opportunities don't happen. You create them.
 The only way to do great work is to love what you do. Logging NLP RabbitMQ Zero Downtime Deployment Framework Pull Request
 To be the best, you must be able to handle the worst. Parallel Processing Serverless Frontend Logging Event-driven Architecture Code Review Database Indexing Edge Computing
+Don't be afraid to give up the good to go for the great. I find that the harder I work, the more luck I seem to have. Backend Algorithm Kubernetes
