@@ -2,3 +2,4 @@ Cloud Zero Downtime Deployment Optimization Server Response A/B Testing Content 
 Cache Invalidation Cloud Containerization A/B Testing Success usually comes to those who are too busy to be looking for it. Version Control Agile Database
 Frontend Opportunities don't happen. You create them. Framework NLP Performance Docker Quantum Computing Python Containerization Deployment DevOps Algorithm Great things never come from comfort zones. Load Balancing
 Performance Sharding Cloud Functions Success usually comes to those who are too busy to be looking for it. Quantum Computing
+Cloud Functions IoT To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Containerization Success doesn’t just find you. You have to go out and get it. Cache Invalidation Big Data RabbitMQ Server Response Blockchain Deployment API
