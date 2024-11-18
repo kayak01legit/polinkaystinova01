@@ -6,3 +6,4 @@ Success is not in what you have, but who you are. Success is how high you bounce
 Server Response Event Sourcing Performance Scalability IoT DevOps RabbitMQ Agile React
 Server Response Stay hungry, stay foolish. DNS Routing React Framework
 Cache Invalidation Artificial Intelligence Automation API Gateway WebSockets Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Frontend Quantum Computing Optimization RabbitMQ
+Python Docker Replica Set Cloud Functions Database Indexing IoT Firewalls Serverless Edge Computing Scalability Data Science
