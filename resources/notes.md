@@ -5,3 +5,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. Quan
 Latency Optimization Zero Downtime Deployment Artificial Intelligence Firewalls RabbitMQ Security Load Balancing
 Big Data UX Optimization Virtual Machines A/B Testing Parallel Processing Data Science Logging JWT JavaScript React Replica Set
 Opportunities don't happen. You create them. Agile Framework Data Science Don't be afraid to give up the good to go for the great. DevOps The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Virtual Machines DNS Routing Kafka RabbitMQ Event Sourcing Event-driven Architecture
+Kafka Containerization Algorithm Framework Server Response WebSockets Database Indexing Firewalls Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Zero Downtime Deployment Version Control Don't be afraid to give up the good to go for the great.
