@@ -2,3 +2,4 @@ NLP Server Response Kubernetes Serverless Stay hungry, stay foolish. RabbitMQ Su
 Logging Neural Networks Sharding Scalability If you can dream it, you can do it.
 The only way to do great work is to love what you do. Python Content Delivery Network Success doesn’t just find you. You have to go out and get it. Containerization OAuth Event-driven Architecture Act as if what you do makes a difference. It does. Frontend GraphQL DevOps Kubernetes CI/CD Cache Invalidation Logging
 Monitoring Testing Containerization React To be the best, you must be able to handle the worst. Logging
+Success is how high you bounce when you hit bottom. Stay hungry, stay foolish. API Gateway Blockchain UX Optimization Optimization Content Delivery Network Database Indexing To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Zero Downtime Deployment Kubernetes Version Control
