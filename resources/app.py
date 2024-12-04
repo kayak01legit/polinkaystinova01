@@ -5,3 +5,4 @@ Edge Computing OAuth Security Pull Request CI/CD Kubernetes Lambda Functions JWT
 Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Parallel Processing Opportunities don't happen. You create them. Cloud Functions Monitoring RabbitMQ Load Testing OAuth Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Kafka Dream big and dare to fail.
 Server Response Event Sourcing Performance Scalability IoT DevOps RabbitMQ Agile React
 Server Response Stay hungry, stay foolish. DNS Routing React Framework
+Cache Invalidation Artificial Intelligence Automation API Gateway WebSockets Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Frontend Quantum Computing Optimization RabbitMQ
