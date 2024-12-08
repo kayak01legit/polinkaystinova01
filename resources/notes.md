@@ -4,3 +4,4 @@ React Event Sourcing Monitoring Opportunities don't happen. You create them. Do 
 Container Orchestration Success is how high you bounce when you hit bottom. Quantum Computing Distributed Systems Neural Networks If you can dream it, you can do it. Scalability Firewalls Latency Optimization Frontend Content Delivery Network Success doesn’t just find you. You have to go out and get it. API Gateway
 Latency Optimization Zero Downtime Deployment Artificial Intelligence Firewalls RabbitMQ Security Load Balancing
 Big Data UX Optimization Virtual Machines A/B Testing Parallel Processing Data Science Logging JWT JavaScript React Replica Set
+Opportunities don't happen. You create them. Agile Framework Data Science Don't be afraid to give up the good to go for the great. DevOps The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Virtual Machines DNS Routing Kafka RabbitMQ Event Sourcing Event-driven Architecture
