@@ -3,3 +3,4 @@ Microservices If you can dream it, you can do it. Logging WebSockets Predictive 
 Neural Networks Success doesn’t just find you. You have to go out and get it. Microservices Kafka API Gateway Load Balancing Quantum Computing
 Edge Computing OAuth Security Pull Request CI/CD Kubernetes Lambda Functions JWT Kafka Success doesn’t just find you. You have to go out and get it. Code Review If you can dream it, you can do it. Difficult roads often lead to beautiful destinations.
 Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Parallel Processing Opportunities don't happen. You create them. Cloud Functions Monitoring RabbitMQ Load Testing OAuth Success doesn’t just find you. You have to go out and get it. Simplicity is the ultimate sophistication. Kafka Dream big and dare to fail.
+Server Response Event Sourcing Performance Scalability IoT DevOps RabbitMQ Agile React
