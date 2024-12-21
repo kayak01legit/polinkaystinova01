@@ -2,3 +2,4 @@ IoT Difficult roads often lead to beautiful destinations. Performance Multi-thre
 Framework Stay hungry, stay foolish. Agile Sharding Event Sourcing If you can dream it, you can do it. NLP Cloud Functions
 Virtual Machines Cache Invalidation Docker Pull Request Scalability Parallel Processing Data Pipeline React Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. DevOps JavaScript Innovation distinguishes between a leader and a follower.
 Microservices Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Framework Docker If you can dream it, you can do it. GraphQL To be the best, you must be able to handle the worst. DevOps Version Control Distributed Systems Edge Computing
+DNS Routing A/B Testing Edge Computing RabbitMQ Success doesn’t just find you. You have to go out and get it. Code Review
