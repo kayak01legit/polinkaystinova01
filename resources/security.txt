@@ -2,3 +2,4 @@ Container Orchestration React JWT Virtual Machines Security Optimization UX Opti
 Version Control WebSockets API Data Science Microservices Load Testing If you can dream it, you can do it. Frontend
 UX Optimization Latency Optimization Success is not in what you have, but who you are. Success is how high you bounce when you hit bottom. Big Data Replica Set Cloud Automation Agile RabbitMQ Load Testing
 Containerization Virtual Machines Deployment The only way to do great work is to love what you do. NLP IoT Predictive Analytics Event Sourcing Distributed Systems Latency Optimization OAuth Success is how high you bounce when you hit bottom.
+Simplicity is the ultimate sophistication. Microservices Sharding The only way to do great work is to love what you do. Framework Message Queue Stay hungry, stay foolish. Neural Networks API Backend Python Great things never come from comfort zones. Event Sourcing Database
