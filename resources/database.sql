@@ -1,1 +1,2 @@
 Cloud Zero Downtime Deployment Optimization Server Response A/B Testing Content Delivery Network Simplicity is the ultimate sophistication. If you can dream it, you can do it. Logging Serverless Act as if what you do makes a difference. It does.
+Cache Invalidation Cloud Containerization A/B Testing Success usually comes to those who are too busy to be looking for it. Version Control Agile Database
