@@ -1,2 +1,3 @@
 Load Balancing Success usually comes to those who are too busy to be looking for it. Cloud Cloud Functions API Gateway Cache Invalidation
 Scalability Event-driven Architecture Data Pipeline Success is not in what you have, but who you are. Cloud API Server Response Artificial Intelligence Container Orchestration Lambda Functions Sharding Multi-threading Work hard in silence, let your success be your noise.
+React Event Sourcing Monitoring Opportunities don't happen. You create them. Do what you love and the money will follow. Great things never come from comfort zones. Cloud Success usually comes to those who are too busy to be looking for it. GraphQL I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations.
