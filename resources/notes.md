@@ -1,1 +1,2 @@
 Load Balancing Success usually comes to those who are too busy to be looking for it. Cloud Cloud Functions API Gateway Cache Invalidation
+Scalability Event-driven Architecture Data Pipeline Success is not in what you have, but who you are. Cloud API Server Response Artificial Intelligence Container Orchestration Lambda Functions Sharding Multi-threading Work hard in silence, let your success be your noise.
